@@ -1,0 +1,7 @@
+.relatedPosts{
+    flex-grow: 1;
+    padding:0 10px;
+    align-items: center;
+    word-wrap: break-word;
+    background-color:red; 
+}

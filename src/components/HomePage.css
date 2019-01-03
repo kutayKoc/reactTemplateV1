@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-flow: row wrap;
+}
+.container_inside{
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+}
+
+.bottom_divider{
+    margin:0 0 50px 0;
+}

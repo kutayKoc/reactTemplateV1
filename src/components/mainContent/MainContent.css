@@ -1,0 +1,10 @@
+.mainContent{
+    flex-grow: 2;
+    padding:0 10px;
+    word-wrap: break-word;
+    background-color: aqua;
+}
+
+.mainImage{
+    width: 100%;
+}

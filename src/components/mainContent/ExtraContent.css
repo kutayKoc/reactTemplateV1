@@ -1,0 +1,8 @@
+.extraContent{
+    display: flex;
+    flex-grow: 1;
+    font-size: 12px;
+    padding:0 10px;
+    word-wrap: break-word;
+    background-color: green;
+}

@@ -1,0 +1,15 @@
+.RelatedImages{
+    flex-grow: 2;
+    flex-flow: row wrap;
+    padding:0 10px;
+    word-wrap: break-word;
+    align-items: center;
+    background-color: blueviolet;
+}
+.related_images{
+    display: flex;
+}
+.RelatedImages img{
+    width: 100px;
+    height: 100px;
+}
