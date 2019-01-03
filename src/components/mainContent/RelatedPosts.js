@@ -13,7 +13,6 @@ export default class RelatedPosts extends Component{
                     <Link to="/posts/3"> data3</Link>
                     <Link to="/posts/4"> data4</Link>
                     <Link to="/posts/5"> data5</Link>
-                    <Link to="/posts/5"> data5</Link>
             </div>
         )
     }
